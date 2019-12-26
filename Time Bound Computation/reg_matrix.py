@@ -30,11 +30,11 @@ second_mat = newMatrix(1000, 1000, first_data)
 
 
 
-result_data = []
+resulting_data = []
 for x in range(1000001):
-    result_data.append(0)
+    resulting_data.append(0)
 
-result_mat = newMatrix(1000, 1000, result_data)
+result_mat = newMatrix(1000, 1000, resulting_data)
 
 for i in range(len(first_mat)):
 
