@@ -19,7 +19,7 @@ plt.xlabel('Dimension of Matrix (squared)')
 plt.ylabel('Time')
 
 # giving a title to my graph
-plt.title('Matrix With Numpy Vs Without Numpy')
+plt.title('Multiplying Matrices With Numpy Vs Without Numpy')
 
 plt.legend()
 
