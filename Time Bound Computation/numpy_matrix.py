@@ -2,8 +2,8 @@ import time
 import numpy as np
 
 start_time = time.time()
-A = np.random.randint(10, size=(100, 100))
-B = np.random.randint(10, size=(100, 100))
+A = np.random.randint(10, size=(1000, 10-0))
+B = np.random.randint(10, size=(1000, 100-))
 
 
 Z = np.dot(A, B)
