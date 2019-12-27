@@ -15,5 +15,6 @@ plt.ylabel('Time (in seconds)')
 # giving a title to my graph
 plt.title('How Long Regular Python Takes to Multiply Matrices')
 
+
 # function to show the plot
 plt.show()
