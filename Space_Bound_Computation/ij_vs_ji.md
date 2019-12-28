@@ -5,5 +5,5 @@ B * A, which is completely different. In the first one, you would be taking the 
 while in the second one you would be taking the vertical for B and multiplying/adding it to the horizontial of A, which will give out a completely 
 different answer. 
 
-As long as run time goes, they take the **same time to run**. This is because you are doing the same action to both of the list, no matter the way you combine them. I ran the same program five times, and took the average of both. In I before J, it was 0.00105, and in J before I, it was 0.00156. As you can see, not really a bigg difference.
+As long as run time goes, they take the **same time to run**. This is because you are doing the same action to both of the list, no matter the way you combine them. I ran the same program five times, and took the average of both. In I before J, it was 0.00105, and in J before I, it was 0.00156. As you can see, not really a big difference.
   
