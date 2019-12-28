@@ -20,6 +20,6 @@ plt.ylabel('Time (in seconds)')
 # giving a title to my graph
 plt.title('Regular vs Switched Order of Looping')
 
-
+plt.legend()
 
 plt.show()
